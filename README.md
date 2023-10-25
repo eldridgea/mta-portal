@@ -1,5 +1,5 @@
 > [!WARNING]
-> Under development -- likely to not work as docuemnted currently. 
+> Under development -- likely to not work as documented currently. 
 
 # MTA Portal
 
